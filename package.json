@@ -1,6 +1,6 @@
 {
   "name": "filesystem-mount-options-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turns mount table and fstab lines into objects with option maps and dump/pass values.",
   "type": "module",
   "main": "src/index.js",
